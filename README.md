@@ -83,6 +83,8 @@ In addition, the modeling process can be improved by perhaps trying to classify 
 
 While our models were not the best, we did create a robust exploratory data analysis that I feel encompasses the heart of the show. You can see the rise and fall of character relationships as well as how some of our favorite lines and catchphrases are used; all of this adds to the ambience of the How I Met Your Mother experience, and as an avid fan I'm glad I got to re-experience the show through this avenue.
 
+
+
 ## Repository Organization
 - ['Capstone Project - 1 - Web Scraping and Initial DF.ipynb'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/Capstone%20Project%20-%201%20-%20Web%20Scraping%20and%20Initial%20DF.ipynb) : Jupyter notebook of Web Scraping with code and comments
 - ['Capstone Project - 2 - Preprocessing and Database Creation.ipynb'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/Capstone%20Project%20-%202%20-%20Preprocessing%20and%20Database%20Creation.ipynb) : Jupyter notebook of preprocessing with code and comments
