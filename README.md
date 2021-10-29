@@ -32,11 +32,11 @@ I also created visualizations for each of these avenues I explored:
 
 * Total Lines during Series - Largest Vocabulary
 
-<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/TotalLines.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/Vocabulary.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/TotalLines.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/Vocabulary.png" height="200">
 
 * Character Mentions - Total and by Nickname
 
-<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/CharMentions.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/Nicknames.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/CharMentions.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/Nicknames.png" height="200">
 
 * Common Three Word Phrases: Three word phrases are where differences started to become more apparent among the characters.
 
@@ -46,7 +46,7 @@ I also created visualizations for each of these avenues I explored:
 
 * Total Corpus - Ted - Marshall - Barney - Lily - Robin
 
-<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/CorpusWC.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/TedCloud.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/MarshCloud.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/BarnCloud.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/LilCloud.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/RobCloud.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/CorpusWC.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/TedCloud.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/MarshCloud.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/BarnCloud.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/LilCloud.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/RobCloud.png" height="200">
 
 #### Sentiment Analysis
 
@@ -54,7 +54,7 @@ I looked at how Marshall and Lily's polarity and subjectivity evolved over seaso
 
 * Marshall and Lily Sentiment Spread - Season 2 // Barney and Robin Sentiment Spread - Season 5
 
-<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/MLSent2.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/BRSent5.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/MLSent2.png" height="200"> <img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/BRSent5.png" height="200">
 
 
 ### Model
