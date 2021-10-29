@@ -1,6 +1,8 @@
 # How-I-Analyzed-Your-Mother
 ## Capstone Project
 
+<img src="https://raw.githubusercontent.com/srobz/How-I-Analyzed-Your-Mother/main/Visuals/himymcast.png" height="500">
+
 ## Introduction
 
 The purpose of this project is to do a thorough exploratory data analysis of the characters and scripts of the TV show How I Met Your Mother, as well as create a model that can accurately classify who said which line.
