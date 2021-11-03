@@ -95,6 +95,7 @@ While our models were not the best, we did create a robust exploratory data anal
 - ['Images'](https://github.com/srobz/How-I-Analyzed-Your-Mother/tree/main/Images) : Folder containing font and miscellaneous images used in notebooks
 - ['Visuals'](https://github.com/srobz/How-I-Analyzed-Your-Mother/tree/main/Visuals) : Folder containing visuals for ReadMe
 - ['DFforSQL.csv'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/DFforSQL.csv) : CSV file created in notebook 2 used to create SQL database
+- ['HIMYM.csv'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/HIMYM.csv) : CSV file created in notebook 1 used for preprocessing in notebook 2
 - ['HIMYM.db'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/HIMYM.db) : SQL database for project created on remote desktop
 - ['ModelDF.csv'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/ModelDF.csv) : CSV file created in notebook 3 used in notebook 4 for modeling
 - ['project_functions.py'](https://github.com/srobz/How-I-Analyzed-Your-Mother/blob/main/project_functions.py) : File containing all functions used in notebooks
